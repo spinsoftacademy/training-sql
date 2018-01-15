@@ -5,6 +5,14 @@
 * Create Database 
 * Drop Database
 * Select Database
+```sql
+create database whatsapp_db;
+drop database whatsapp_db;
+use whatsapp_db;
+show databases;
+select database();
+select version();
+```
 
 ## Session 2: Datatypes and DDL
 * Datatypes - int, varchar, date, timestamp
