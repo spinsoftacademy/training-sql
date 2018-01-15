@@ -58,7 +58,7 @@
 * Types of Subqueries
    * Scalar Subquery
    * Correlated Subquery
-   
+* Using - ALL, ANY, SOME
 * Errors: 
   * Single Row Subquery returns multiple rows
   
